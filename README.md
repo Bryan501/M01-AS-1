@@ -17,7 +17,7 @@ git clone https://gitlab.com/isx.alvitres.valdiviezo.bryan/m01-operatius-v1.git
 
 Per pujar els apunts:
 '''
-git add . ; git commit -m "m01 exemple" ; git push 
+git add . ; git commit -m "m01 exemple" ; git push origin main
 Per pujar els apunts: 
 '''
 
